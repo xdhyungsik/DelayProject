@@ -36,6 +36,9 @@ I used publicly available data from the Bureau of Transportation Statistics (BTS
    - Source: [FAA Enplanement Data](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats)
    - Provides passenger volumes for U.S. commercial service airports
    - Useful for adding traffic context to delays (big hubs vs. smaller airports)
+  
+
+**I'm currently in the process of implementing a Power BI dashboard for this project. As a Mac user, accessing Power BI requires additional setup, including licensing through my university. I'm actively working through these steps and will update the project with visualizations as soon as possible.**
 
 ## License
 
